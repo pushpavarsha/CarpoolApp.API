@@ -1,0 +1,6 @@
+@CarpoolApp.API_HostAddress = http://localhost:5085
+
+GET {{CarpoolApp.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
